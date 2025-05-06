@@ -1,0 +1,5 @@
+# Ignore the raw_data directory
+raw_data/
+
+# Ignore the cleaned_data directory
+cleaned_data/
